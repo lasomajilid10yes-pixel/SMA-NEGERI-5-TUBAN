@@ -13,8 +13,7 @@ Selamat datang di galeri foto pribadi saya! Ini adalah koleksi gambar favorit da
 
 ## Contoh Foto
 Berikut bebarapa preview:
-
-![Foto: Anggota osis SMAN 5 Tuban](images/anggota osis SMAN 5 Tuban.jpg)
+![Foto 1: Anggota osis SMA N 5 Tuban](images/anggota osis SMAN 5 Tuban.jpg)
 
 ## Cara berkontribusi
 Jika mau tambah foto, buat pull request atau hubungi saya.
@@ -22,5 +21,5 @@ Jika mau tambah foto, buat pull request atau hubungi saya.
 # Lisensi
 Foto ini untuk penggunaan pribadi. Jika pakai, beri kredit.
 
-___
+---
 Dibuat dengan ❤️ di Github
